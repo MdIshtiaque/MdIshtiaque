@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md Ishtiaque Ferdous</h1>
 <h3 align="center">A passionate Laravel developer.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdishtiaque&label=Profile%20views&color=0e75b6&style=flat" alt="mdishtiaque" /> </p>
  <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdishtiaque&label=Profile%20views&color=0e75b6&style=flat" alt="mdishtiaque" /> </p>
+
 - 🌱 I’m currently learning **Vue js**
 
 - 💬 Ask me about **Laravel , php**
