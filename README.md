@@ -1,45 +1,103 @@
-<h1 align="center">Hi 👋, I'm Md Ishtiaque Ferdous</h1>
-<h3 align="center">A passionate Laravel developer.</h3>
- <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdishtiaque&label=Profile%20views&color=0e75b6&style=flat" alt="mdishtiaque" /> </p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,25&height=220&section=header&text=Ishtiaque%20Ferdous&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Laravel%20Developer%20|%20Full%20Stack%20Engineer&descAlignY=58&descSize=20"/>
+</div>
 
-- 🌱 I’m currently learning **Vue js**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=2000&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=500&height=60&lines=Building+Modern+Web+Solutions;Laravel+%26+Vue.js+Enthusiast;Clean+Code+Advocate;UI%2FUX+Design+Lover" alt="Typing SVG" />
+</div>
 
-- 💬 Ask me about **Laravel , php**
+<div align="center" style="margin: 20px 0">
+  <a href="https://github.com/mdishtiaque?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mdishtiaque?color=22c55e&labelColor=15803d&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mdishtiaque?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mdishtiaque?color=8b5cf6&style=for-the-badge&labelColor=7c3aed&logo=star"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mdishtiaque&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="profile-views" />
+</div>
 
-- 📫 How to reach me **ishtiaqueferdous109@gmail.com**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jGkn95ZJzKHWEQ4S8EO2ch36f39HJaXz/view?usp=sharing](https://drive.google.com/file/d/1jGkn95ZJzKHWEQ4S8EO2ch36f39HJaXz/view?usp=sharing)
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 30px; padding: 20px;">
+  <div style="flex: 1;">
+    <h2>👨‍💻 About Me</h2>
+    <ul style="list-style: none; padding: 0;">
+      <li style="margin: 10px 0;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="25" height="25" />
+        Full Stack Developer specializing in Laravel & Vue.js ecosystem
+      </li>
+      <li style="margin: 10px 0;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
+        3+ years of experience in web development
+      </li>
+      <li style="margin: 10px 0;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="25" height="25" />
+        Passionate about creating efficient, scalable & maintainable solutions
+      </li>
+      <li style="margin: 10px 0;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Growth" width="25" height="25" />
+        Currently exploring advanced Vue.js patterns & microservices architecture
+      </li>
+      <li style="margin: 10px 0;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paintbrush.png" alt="Paintbrush" width="25" height="25" />
+        UI/UX enthusiast with a keen eye for pixel-perfect designs
+      </li>
+      <li style="margin: 10px 0;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Email" width="25" height="25" />
+        Reach me at: <a href="mailto:ishtiaqueferdous109@gmail.com" style="color: #58a6ff; text-decoration: none;">ishtiaqueferdous109@gmail.com</a>
+      </li>
+      <li style="margin: 10px 0;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Resume" width="25" height="25" />
+        Check out my <a href="https://drive.google.com/file/d/1jGkn95ZJzKHWEQ4S8EO2ch36f39HJaXz/view?usp=sharing" style="color: #58a6ff; text-decoration: none;">Resume</a>
+      </li>
+    </ul>
+  </div>
+  <img width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+</div>
 
-<h3 align="left">Connect with me:</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<h2>🤝 Let's Connect</h2>
 <p align="left">
-<a href="https://linkedin.com/in/md-ishtiaque-ferdous-29a259264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-ishtiaque-ferdous-29a259264" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/md-ishtiaque-ferdous-29a259264" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/mdishtiaque" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h2>🛠️ Tech Stack</h2>
+<div align="left" style="margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=laravel,php,vue,js,mysql,postgres,html,css,bootstrap,tailwind,git,linux,figma&theme=dark" alt="Tech Stack" />
+</div>
 
+<h2>📊 GitHub Analytics</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdishtiaque&bg_color=1a1b27&color=38bdae&line=628fdb&point=fff&area=true&hide_border=true" width="100%">
 
-
-
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                  
- <br>
-<table border="0" align="center">
-<tr border="0">
-<td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=mdishtiaque&theme=cobalt&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdishtiaque&theme=dark&hide_border=true" />
-</td>
-<td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mdishtiaque&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  </td>
-</tr>
-</table>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>  
-                                                                                    
-<br>
+  <div style="margin: 30px 0; perspective: 1000px;">
+    <div style="transform-style: preserve-3d; animation: float 6s ease-in-out infinite;">
+      <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdishtiaque&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
+          <img src="https://streak-stats.demolab.com?user=mdishtiaque&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+        </div>
+        <div style="background: linear-gradient(45deg, #2a2a4a, #434369); padding: 25px; border-radius: 20px; width: 200px; text-align: center; transform: rotateX(10deg); box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+          <span style="font-size: 40px;">⚡</span>
+          <h3 style="margin: 10px 0; color: #fff;">Code Wizard</h3>
+          <p style="color: #a8b2d1; font-size: 14px;">Crafting digital magic with elegant solutions</p>
+        </div>
+        <div style="background: linear-gradient(45deg, #2a2a4a, #434369); padding: 25px; border-radius: 20px; width: 200px; text-align: center; transform: rotateX(10deg); box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+          <span style="font-size: 40px;">🎮</span>
+          <h3 style="margin: 10px 0; color: #fff;">Tech Enthusiast</h3>
+          <p style="color: #a8b2d1; font-size: 14px;">Always playing with the latest technologies</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
